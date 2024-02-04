@@ -32,7 +32,7 @@ For Windows, you can also start it by using 'py' instead of 'python':
 py uhc.py
 ```
 
-## Stoping the scraper
+## Stopping the scraper
 You can stop the scraper prematurely by pressing CTRL+C <br/>
 It will track which files have been parsed, so if you restart it, the scraper will skip the already completed files. <br/>
 
